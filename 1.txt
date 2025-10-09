@@ -1,0 +1,3 @@
+com.netease.cloudmusic.NeteaseMusicApplication
+
+com.netease.cloudmusic.CloudMusicApplication
